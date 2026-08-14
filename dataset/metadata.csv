@@ -2,3 +2,6 @@ building_id,state,municipality,sector,structural_system,levels,construction_year
 VE-2026-001,La Guaira,Vargas,Macuto,Reinforced Concrete Frames,8,1975,1967_Norm,Irregular,Yes,Total Collapse,F1_Near_Field_Directivity,Confirmed,https://commons.wikimedia.org/...,Authorized_CC_BY
 VE-2026-002,Distrito Capital,Chacao,El Rosal,Dual System (Walls/Frames),12,1990,1982_Norm,Regular,No,Partial Collapse_Node_Failure,F3_Architectural_Configuration,Expert_Hypothesis,https://commons.wikimedia.org/...,Pending
 VE-2026-003,Yaracuy,San Felipe,Cocorote,Unreinforced Masonry,3,1985,None,Irregular,No,Severe_Shear_Cracking,F7_Construction_Quality,General_Typology,https://commons.wikimedia.org/...,Authorized_Public_Domain
+VE-2026-010,La Guaira,La Guaira,Litoral Central,Reinforced Concrete Frames,N/A,Pre-2001,COVENIN 1756-98 (est.),Irregular,Yes,Partial/Total Collapse,Soft Story/Pancake,F1-F2-F5,VE-2026-030_fachada.jpg
+VE-2026-011,La Guaira,La Guaira,Catia La Mar,Reinforced Concrete Frames,N/A,Pre-2001,COVENIN 1756-98 (est.),Irregular,Yes,Partial/Total Collapse,Soft Story/Pancake,F1-F2-F5,VE-2026-031_fachada.jpg
+VE-2026-006,La Guaira,La Guaira,Catia La Mar,N/A,N/A,2013-2015,COVENIN 1756:2001,Regular,Yes,Total Destruction,Pancake/Soft Story,F2-F4-F7,VE-2026-006_fachada.jpg
